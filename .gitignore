@@ -1,0 +1,6 @@
+#terraformrc file
+terraform.rc
+.terraformrc
+
+#no creds
+*.pem
