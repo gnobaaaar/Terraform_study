@@ -25,7 +25,6 @@ variable "login_key_name" {
   default = "terra-key"
 }
 
-variable "port_forwarding_external_port" {
-  type = list
-  default = ["1290", "2290"]
+variable name_terra {
+  default = "dw-server"
 }
