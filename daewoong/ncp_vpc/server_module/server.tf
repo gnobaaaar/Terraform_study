@@ -86,7 +86,8 @@ resource "ncloud_server" "bastion_server" {
 data "ncloud_server_image" "server_image" {
   filter {
     name = "product_name"
-    values = ["ubuntu-20.04"]
+    # values = ["ubuntu-20.04"]
+    values = ["Rocky Linux 8.8"]
   }
   /* image list
    + "SW.VSVR.OS.LNX64.CNTOS.0703.B050"          = "centos-7.3-64"
