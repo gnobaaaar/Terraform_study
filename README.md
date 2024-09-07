@@ -19,8 +19,7 @@ Terraform을 활용하여 NCP 인프라 생성 스터디
 </br>
 
 ## :open_file_folder: 프로젝트 레포지토리
-</br>Project Repo : https://github.com/Song121099/Terraform_study
-</br>
+Project Repo : https://github.com/Song121099/Terraform_study
 </br>
 </br>
 
