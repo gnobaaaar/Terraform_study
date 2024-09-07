@@ -1,4 +1,4 @@
-# 테라폼을 통한 NCP 인프라 생성
+# Terraform 으로 NCP Classic Zone / VPC Zone 인프라 생성
 ## :open_file_folder: 프로젝트 소개
 Terraform을 활용하여 NCP 인프라 생성 스터디
 </br>
